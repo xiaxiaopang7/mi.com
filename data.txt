@@ -1,0 +1,6 @@
+[
+    {"src":"image/db0082c5-a307-4f5e-8f2a-198a55df3a4f.jpg","desc":"2016火热招生中"},
+    {"src":"image/e8d8461c-23f7-4e47-b5ed-2d6f3164a38c.jpg","desc":"2016火热招生中"},
+    {"src":"image/fbc8383c-56ff-41da-940c-076c7e742fdb.jpg","desc":"2016火热招生中"},
+    {"src":"image/99377ac1-052e-4d37-8798-cbb01665a149.jpg","desc":"2016火热招生中"}
+]
